@@ -9,7 +9,7 @@
 ./storage/*
 /vendor
 ./vender
-.env
+#.env
 .env.backup
 .env.production
 .phpactor.json
